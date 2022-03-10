@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(100, 100, 100);
+  }
+
+  h1 {
+    color: rgb(172, 0, 224);
+    text-decoration: underline;
+  }
+
+  h2, h3, p {
+    color: rgb(255, 217, 0);
+  }
+
+  p, li {
+    font-size: 24px;
+    font-family: cursive;
+  }
+
+  .djent {
+    color: rgb(6, 134, 238);
+  }
+
+  .hung {
+    color: rgb(255, 255, 255);
+  }
+
+  .lies {
+    color: rgb(255, 0, 0);
+  }
+
+  .closing {
+    color: blue;
+  }
